@@ -7,3 +7,5 @@ AvailProject 批量检查EVM空投资格
 格式 地址----私钥
 
 main("addresses.txt")
+
+推特 @0xgejutaixiao
